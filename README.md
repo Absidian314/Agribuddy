@@ -8,6 +8,13 @@ AgriBuddy is an intelligent agricultural analytics platform that leverages geosp
 
 ---
 
+## Authors
+
+- **Parth** - 2024AIB1012
+- **Syed Naqi Abbas** - 2024AIB1087
+  
+---
+
 ## 🚀 Key Features
 
 - **Geospatial Interface**: Interactive Leaflet.js map for auto-capturing GPS coordinates with reverse geocoding for district/state identification
